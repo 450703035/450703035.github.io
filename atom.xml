@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://450703035.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-11T08:39:30.402Z</updated>
+    <updated>2020-03-11T09:07:17.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://450703035.github.io"/>
     <link rel="self" href="https://450703035.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://450703035.github.io/images/avatar.png</logo>
     <icon>https://450703035.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[梯度下降]]></title>
+        <id>https://450703035.github.io/post/ti-du-xia-jiang/</id>
+        <link href="https://450703035.github.io/post/ti-du-xia-jiang/">
+        </link>
+        <updated>2020-03-11T09:06:56.000Z</updated>
+        <content type="html"><![CDATA[<p>梯度下降</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://450703035.github.io/post/hello-gridea/</id>
