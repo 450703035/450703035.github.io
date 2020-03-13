@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://450703035.github.io</id>
     <title>机器猫爱学习</title>
-    <updated>2020-03-13T07:28:35.275Z</updated>
+    <updated>2020-03-13T07:28:56.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://450703035.github.io"/>
     <link rel="self" href="https://450703035.github.io/atom.xml"/>
@@ -157,9 +157,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="复选框">复选框</h3>
 <p>使用 <code>- [ ]</code> 和 <code>- [x]</code> 语法可以创建复选框，实现 todo-list 等功能。例如：</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9412221"><label class="task-list-item-label" for="task-item-9412221"> 已完成事项</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7642416"><label class="task-list-item-label" for="task-item-7642416"> 待办事项1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4193817"><label class="task-list-item-label" for="task-item-4193817"> 待办事项2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1093425"><label class="task-list-item-label" for="task-item-1093425"> 已完成事项</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9631605"><label class="task-list-item-label" for="task-item-9631605"> 待办事项1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5489467"><label class="task-list-item-label" for="task-item-5489467"> 待办事项2</label></li>
 </ul>
 <blockquote>
 <p><strong>注意：<strong>目前支持尚不完全，在印象笔记中勾选复选框是无效、不能同步的，所以必须在</strong>马克飞象</strong>中修改 Markdown 原文才可生效。下个版本将会全面支持。</p>
