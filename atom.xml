@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://450703035.github.io</id>
     <title>机器猫爱学习</title>
-    <updated>2020-03-28T08:37:19.881Z</updated>
+    <updated>2020-03-28T09:17:56.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://450703035.github.io"/>
     <link rel="self" href="https://450703035.github.io/atom.xml"/>
@@ -16,6 +16,26 @@
         <link href="https://450703035.github.io/post/ping-gu-mo-xing-evaluate-the-model/">
         </link>
         <updated>2020-03-28T08:32:02.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="什么样的模型是一个好模型">什么样的模型是一个好模型？</h2>
+<ul>
+<li>
+<p><strong>准确率 Accurate</strong></p>
+<p>模型预测的准确程度</p>
+</li>
+<li>
+<p><strong>可解释性 Interpretable</strong></p>
+<p>我们是如何做出预测的</p>
+</li>
+<li>
+<p><strong>速度</strong></p>
+<p>建立模型需要多长时间，模型预测需要多长时间</p>
+</li>
+<li>
+<p><strong>可扩展性</strong></p>
+<p>如果我们使用大量的数据进行预测，我们需要等待多长时间</p>
+</li>
+</ul>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="什么样的模型是一个好模型">什么样的模型是一个好模型？</h2>
 <ul>
 <li>
@@ -33,6 +53,7 @@
 <li>
 <p><strong>可扩展性</strong></p>
 <p>如果我们使用大量的数据进行预测，我们需要等待多长时间</p>
+<!-- more -->
 </li>
 </ul>
 <p><strong>奥卡姆剃刀</strong>：在同样能够解释已知观测现象的假设中，我们应该挑选最简单的那一个</p>
@@ -378,9 +399,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="复选框">复选框</h3>
 <p>使用 <code>- [ ]</code> 和 <code>- [x]</code> 语法可以创建复选框，实现 todo-list 等功能。例如：</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5852389"><label class="task-list-item-label" for="task-item-5852389"> 已完成事项</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3145611"><label class="task-list-item-label" for="task-item-3145611"> 待办事项1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3122672"><label class="task-list-item-label" for="task-item-3122672"> 待办事项2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6335988"><label class="task-list-item-label" for="task-item-6335988"> 已完成事项</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1172169"><label class="task-list-item-label" for="task-item-1172169"> 待办事项1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6248697"><label class="task-list-item-label" for="task-item-6248697"> 待办事项2</label></li>
 </ul>
 <blockquote>
 <p><strong>注意：<strong>目前支持尚不完全，在印象笔记中勾选复选框是无效、不能同步的，所以必须在</strong>马克飞象</strong>中修改 Markdown 原文才可生效。下个版本将会全面支持。</p>
